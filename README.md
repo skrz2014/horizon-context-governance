@@ -34,4 +34,6 @@ A 10,000-person org runs metric requests, certification, promotion, and recertif
 
 **Found this useful?** Star the repo, fork it for your own stack, and follow along — Part 5 covers multi-tenant semantic layers, real-time metrics, semantic-layer-as-API, and cross-cloud federation.
 
+https://medium.com/@snowflakechronicles/enterprise-governance-and-operating-model-for-snowflake-horizon-context-91407923239a
+
 #DataGovernance #Snowflake #SemanticLayer #DataEngineering #AIAgents #DataOps #EnterpriseData #CortexAgents
